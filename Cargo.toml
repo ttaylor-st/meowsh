@@ -1,0 +1,7 @@
+[package]
+name = "meowsh"
+description = "a posix-compliant shell written in rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
