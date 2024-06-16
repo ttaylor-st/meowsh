@@ -25,7 +25,6 @@ fn main() {
 
         let parts: Vec<&str> = input.split_whitespace().collect();
         if parts.is_empty() {
-            println!("No command provided");
             continue;
         }
 
